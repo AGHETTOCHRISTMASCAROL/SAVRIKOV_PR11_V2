@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/dark">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="@color/purpure_100"
+            android:textColor="@color/black"
+            android:text="Robert Fox"
+            android:drawableLeft="@drawable/av_0"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="@color/purpure_100"
+            android:textColor="@color/black"
+            android:text="Albert Flores"
+            android:drawableLeft="@drawable/av_1"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="@color/purpure_100"
+            android:textColor="@color/black"
+            android:text="Kathryn Murphy"
+            android:drawableLeft="@drawable/av_2"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="@color/purpure_100"
+            android:textColor="@color/black"
+            android:text="Courtney Henry"
+            android:drawableLeft="@drawable/av_3"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="@color/purpure_100"
+            android:textColor="@color/black"
+            android:text="Eleanor Pena"
+            android:drawableLeft="@drawable/av_4"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="@color/purpure_100"
+            android:textColor="@color/black"
+            android:text="Marvin McKinney"
+            android:drawableLeft="@drawable/av_5"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="@color/purpure_100"
+            android:textColor="@color/black"
+            android:text="Darlene Robertson"
+            android:drawableLeft="@drawable/av_6"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="@color/purpure_100"
+            android:textColor="@color/black"
+            android:text="Bessie Cooper"
+            android:drawableLeft="@drawable/av_7"/>
+
+    </LinearLayout>
+
+</ScrollView>
